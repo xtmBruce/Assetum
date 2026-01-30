@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+FIXES_DOCUMENTATION.md
+MULTI_STEP_FLOWS_FIX.md
+PRODUCTION_FIXES.md
+
